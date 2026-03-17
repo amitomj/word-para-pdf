@@ -1,0 +1,5 @@
+{
+  "name": "Conversor Word para PDF",
+  "description": "Converta facilmente seus documentos Word (.docx) para PDF mantendo a formatação e os nomes originais. Suporta conversão em lote e pastas.",
+  "requestFramePermissions": []
+}
